@@ -8,11 +8,10 @@ def test_logger_and_exception():
           result=3/0
           print(result)
      except Exception as e:
-          raise SensorException(e,sys)
+          raise SensorException(e, sys)
      
-if __name__ ==" __main__":
+if __name__ =="__main__":
      try:
-          pass
-
+          test_logger_and_exception()
      except Exception as e:
           print(e)     
