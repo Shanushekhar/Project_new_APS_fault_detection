@@ -1,0 +1,3 @@
+[ 2023-08-05 22:42:32,042 ] 18 root - INFO - Reading data from database: aps and collection: tensor
+[ 2023-08-05 22:42:32,057 ] 20 root - INFO - Found columns: RangeIndex(start=0, stop=0, step=1)
+[ 2023-08-05 22:42:32,057 ] 24 root - INFO - Row and columns in df: (0, 0)
